@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\Source\\DesertOasisTest\\DesertOasisTest.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\.vscode\\compileCommands_Default\\DesertOasisTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\Source\\DesertOasisTest\\DesertOasisTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\.vscode\\compileCommands_Default\\DesertOasisTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\Source\\DesertOasisTest\\DesertOasisTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\.vscode\\compileCommands_Default\\DesertOasisTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\Source\\DesertOasisTest\\Private\\Interfaces\\Interface_InteractableObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\.vscode\\compileCommands_Default\\DesertOasisTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\Source\\DesertOasisTest\\Public\\Interfaces\\Interface_InteractableObject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\rohan\\Documents\\Unreal Projects\\DesertOasisTest\\.vscode\\compileCommands_Default\\DesertOasisTest.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
